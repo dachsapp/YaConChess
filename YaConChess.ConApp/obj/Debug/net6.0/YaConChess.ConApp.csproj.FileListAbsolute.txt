@@ -1,0 +1,15 @@
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/bin/Debug/net6.0/YaConChess.ConApp
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/bin/Debug/net6.0/YaConChess.ConApp.deps.json
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/bin/Debug/net6.0/YaConChess.ConApp.runtimeconfig.json
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/bin/Debug/net6.0/YaConChess.ConApp.dll
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/bin/Debug/net6.0/YaConChess.ConApp.pdb
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.csproj.AssemblyReference.cache
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.AssemblyInfoInputs.cache
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.AssemblyInfo.cs
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.csproj.CoreCompileInputs.cache
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.dll
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/refint/YaConChess.ConApp.dll
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.pdb
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/YaConChess.ConApp.genruntimeconfig.cache
+/Users/yannialshoufi/Desktop/school/CABS/YaConChess/YaConChess/YaConChess.ConApp/obj/Debug/net6.0/ref/YaConChess.ConApp.dll
